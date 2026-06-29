@@ -4,7 +4,7 @@ Welcome to my **personal portfolio!** 🎨 This website showcases my **skills, p
 
 ## 🌍 Live Demo  
 
-🔗 **Check out the live version of my portfolio:** [srinand.vercel.app](https://dattasai.vercel.app)  
+🔗 **Check out the live version of my portfolio:** [Datta.vercel.app](https://dattasai.vercel.app)  
 
 ## ✨ Features  
 
